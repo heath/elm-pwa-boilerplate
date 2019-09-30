@@ -1,4 +1,4 @@
-import { Elm } from './src/Main.elm'
+import { Elm } from '../src/Main.elm'
 
 var jpApp = 
   Elm.Main.init({

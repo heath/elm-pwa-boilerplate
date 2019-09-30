@@ -29,7 +29,7 @@ yarn run api
 You are now ready to run the application:
 
 ```
-yarn run parcel index.html
+yarn run parcel public/index.html
 ```
 
 You're all setup! 🎉 

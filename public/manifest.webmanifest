@@ -3,7 +3,7 @@
   "name": "ChangeMe PWA",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "./favicon.ico",
       "sizes": "192x192",
       "type": "image/png"
     }
